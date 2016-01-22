@@ -1,0 +1,43 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700");
+body {
+  background: #02141C;
+  color: white;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.facebook {
+  padding-right: 5em;
+}
+
+.twitter .twitter-icon {
+  margin-top: 1em;
+}
+
+.footer-logo-img {
+  height: 50%;
+  width: 50%;
+}
+
+.phrase {
+  text-align: center;
+}
+
+.social-networks {
+  text-align: center;
+}
